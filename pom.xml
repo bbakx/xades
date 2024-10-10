@@ -77,7 +77,7 @@
 		<dependency>
 			<groupId>org.holodeckb2b.commons</groupId>
 			<artifactId>generic-utils</artifactId>
-			<version>1.1.1</version>
+			<version>1.4.0</version>
 			<exclusions>
 				<exclusion>
 					<groupId>org.apache.tika</groupId>
